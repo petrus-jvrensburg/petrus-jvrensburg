@@ -1,8 +1,8 @@
 Hi There! 
 
-I'm a Full-Stack Software Engineer, based in lovely Cape Town, South Africa 🇿🇦
+I'm a *_Full-Stack Software Engineer_*, based in lovely Cape Town, South Africa 🇿🇦
 
-I have about 10 years experience working at / trying to build my own software startups... mostly focused on emerging-market opportunities.
+I have about *_10 years experience_* working at / trying to build my own software startups... mostly focused on emerging-market opportunities.
 
-My favourite tools are: React-Native, GraphQL, Node, PostgreSQL, Python for scripting & machine learing, Elixir for embedded / IOT applications.
+My favourite tools are: *_React-Native_*, *_GraphQL_*, *_Node_*, *_PostgreSQL_*, *_Python_* for scripting & machine learing, *_Elixir_* for embedded / IOT applications.
 
