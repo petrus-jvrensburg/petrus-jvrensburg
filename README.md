@@ -1,5 +1,7 @@
-**_Full-Stack Software Engineer_**, Cape Town, South Africa 🇿🇦
+Hi there!
 
-I have about **_10 years experience_** working at / trying to build my own software startups... mostly focused on emerging-market opportunities.
+I'm a **Full Stack Engineer** based in Cape Town, South Africa 🇿🇦
 
-My favourite tools are: **_PostgreSQL_**, **_Elixir_**, **_GraphQL_**, **_Python_** & **_Flutter_**.
+Software has been eating the world for a while now, but there's so much left to build: So I've been working for the past 10 years as a Full Stack Developer, Software Architect & Founder, trying to gain as much experience as possible building startups that solve every-day problems using software.
+
+My favourite tools are: **PostgreSQL**, **Elixir**, **Tailwind**, **GraphQL**, **Python** & **Flutter**.
