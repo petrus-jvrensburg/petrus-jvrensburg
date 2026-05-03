@@ -1,7 +1,3 @@
 Hi there!
 
-I'm a **Full Stack Engineer** based in Cape Town, South Africa 🇿🇦
-
-I enjoy building startups, mostly with: **Elixir**, **PostgreSQL**, **Tailwind** & **Python**.
-
-Join our local Elixir Meetup (https://elixirza.org) and say hi!
+I'm a **Full Stack Engineer** building AI agents that ship to production. Ex-founder. Organiser @ ElixirZA (https://elixirza.org). Cape Town 🇿🇦.
